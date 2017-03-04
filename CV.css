@@ -1,0 +1,21 @@
+
+.container{
+	background-color: #ecf0f1;
+	
+}
+h2{ color: #FFFFFF; 
+	font-size:30px; 
+	front-family: 'Times New Roman';
+	
+	}
+	
+.Menu{
+	background-Color: DeepSkyBlue;
+	color : Navy;
+	text-align: center;
+
+}
+
+.button {
+    padding-left: 50px;
+}
